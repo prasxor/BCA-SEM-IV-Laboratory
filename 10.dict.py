@@ -42,3 +42,27 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# output
+
+# Original Dictionary: {'name': 'prashant kumar sinha', 'age': 21, 'city': 'hyderabad', 'hobbies': ['coding', 'video editing', 'ui/ux design', 'game']}
+
+# Accessing Values:
+# Name: prashant kumar sinha
+# Age: 21
+
+# Dictionary after adding email: {'name': 'prashant kumar sinha', 'age': 21, 'city': 'hyderabad', 'hobbies': ['coding', 'video editing', 'ui/ux design', 'game'], 'email': 'alice@example.com'}
+
+# Dictionary after updating age: {'name': 'prashant kumar sinha', 'age': 25, 'city': 'hyderabad', 'hobbies': ['coding', 'video editing', 'ui/ux design', 'game'], 'email': 'alice@example.com'}
+
+# Dictionary after removing hobbies: {'name': 'prashant kumar sinha', 'age': 25, 'city': 'hyderabad', 'email': 'alice@example.com'}
+# Removed hobbies: ['coding', 'video editing', 'ui/ux design', 'game']
+
+# 'city' is present in the dictionary.
+
+# Iterating over dictionary:
+# name: prashant kumar sinha
+# age: 25
+# city: hyderabad
+# email: alice@example.com

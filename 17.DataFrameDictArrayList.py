@@ -15,3 +15,12 @@ df = pd.DataFrame(data)
 
 # Display the DataFrame
 print(df)
+
+
+# output 
+
+#    Column1  Column2  Column3
+# 0        1       10      5.5
+# 1        2       20      6.5
+# 2        3       30      7.5
+# 3        4       40      8.5

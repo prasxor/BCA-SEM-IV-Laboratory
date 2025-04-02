@@ -28,3 +28,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# output 
+
+# Original Tuple: (1, 2, 3, 'apple', 'banana')
+
+# Tuple after adding items: (1, 2, 3, 'apple', 'banana', 'orange', 4.5)
+
+# Length of the Tuple: 7
+
+# 'apple' is present in the tuple.
+
+# Accessing Items:
+# First item: 1
+# Last item: 4.5
+# Items from index 1 to 3: (2, 3, 'apple')

@@ -18,3 +18,15 @@ print(column_names_list)
 # Method 3: Using the keys() method (equivalent to .columns)
 print("\nColumn names using keys():")
 print(df.keys())
+
+
+# o/p 
+
+# Column names using .columns:
+# Index(['Name', 'Age', 'Profession'], dtype='object')
+
+# Column names as a list:
+# ['Name', 'Age', 'Profession']
+
+# Column names using keys():
+# Index(['Name', 'Age', 'Profession'], dtype='object')

@@ -20,3 +20,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# output 
+# Enter a non-negative integer to find its factorial: 20
+# The factorial of 20 is: 2432902008176640000

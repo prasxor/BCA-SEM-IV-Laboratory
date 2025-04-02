@@ -26,3 +26,13 @@ print("Sum of the Array:", array_sum)
 # 5. Finding the mean of the array
 array_mean = np.mean(array)
 print("Mean of the Array:", array_mean)
+
+
+# output 
+
+# Original Array: [1 2 3 4 5]
+# Array after addition (10): [11 12 13 14 15]
+# Array after multiplication (by 2): [ 2  4  6  8 10]
+# Sliced Array (index 1 to 3): [2 3 4]
+# Sum of the Array: 15
+# Mean of the Array: 3.0

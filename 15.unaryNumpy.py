@@ -18,3 +18,12 @@ print("Square Root (non-negative):", square_root)
 print("Absolute Values:", absolute_values)
 print("Negated Values:", negation)
 print("Rounded Values:", rounded)
+
+
+# output 
+
+# Original Array: [-1  0  1  4  9]
+# Square Root (non-negative): [0. 1. 2. 3.]
+# Absolute Values: [1 0 1 4 9]
+# Negated Values: [ 1  0 -1 -4 -9]
+# Rounded Values: [-1  0  1  4  9]

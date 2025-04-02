@@ -22,3 +22,10 @@ for i in range(intervals):
     
     primes = generate_primes(start, end)
     print(f"Prime numbers between {start} and {end}: {primes}")
+
+# output 
+
+# Enter the number of intervals: 1
+# Enter start of interval 1: 10
+# Enter end of interval 1: 20
+# Prime numbers between 10 and 20: [11, 13, 17, 19]

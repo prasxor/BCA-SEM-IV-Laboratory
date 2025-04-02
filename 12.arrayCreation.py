@@ -18,3 +18,10 @@ print("Array using NumPy:", array2)
 # Create a range-based NumPy array
 array3 = np.arange(0, 10, 2)
 print("Array using np.arange:", array3)
+
+
+# output 
+
+# Array using array module: array('i', [1, 2, 3, 4, 5])
+# Array using NumPy: [10 20 30 40 50]
+# Array using np.arange: [0 2 4 6 8]

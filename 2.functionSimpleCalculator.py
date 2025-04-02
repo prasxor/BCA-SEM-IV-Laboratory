@@ -56,3 +56,18 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
+
+# O/p 
+
+# Welcome to the Simple Calculator!
+# Select operation:
+# 1. Add
+# 2. Subtract
+# 3. Multiply
+# 4. Divide
+# Enter choice (1/2/3/4) or 'q' to quit: 1
+# Enter first number: 20
+# Enter second number: 20
+# 20.0 + 20.0 = 40.0
+# Enter choice (1/2/3/4) or 'q' to quit:

@@ -16,3 +16,9 @@ df = pd.DataFrame(data, columns=columns)
 # Step 4: Display the DataFrame
 print(df)
 
+
+# o/p 
+#       Name  Age Profession
+# 0    Alice   25   Engineer
+# 1      Bob   30     Doctor
+# 2  Charlie   35    Teacher

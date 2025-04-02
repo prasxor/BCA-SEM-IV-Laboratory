@@ -9,3 +9,8 @@ df = pd.DataFrame(data)
 # Iterate over the rows using iterrows()
 for index, row in df.iterrows():
     print(f"Index: {index}, Name: {row['name']}, Age: {row['age']}")
+
+# o/p 
+# Index: 0, Name: Mike, Age: 18
+# Index: 1, Name: Doe, Age: 19
+# Index: 2, Name: James, Age: 29

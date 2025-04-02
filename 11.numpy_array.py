@@ -16,3 +16,8 @@ def main():
 if __name__ == "__main__":
     main()
 
+# output 
+
+# First element: 1
+# Last element: 5
+# Length of the array: 5

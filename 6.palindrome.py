@@ -17,3 +17,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# output 
+
+# Enter a string: mom
+# "mom" is a palindrome.

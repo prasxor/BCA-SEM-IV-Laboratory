@@ -15,3 +15,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+# output 
+
+# Enter a word: hello
+# The number of characters in 'hello' is: 5

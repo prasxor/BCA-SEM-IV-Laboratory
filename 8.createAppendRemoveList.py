@@ -42,3 +42,65 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Output 
+
+# Options:
+# 1. Append an item to the list
+# 2. Remove an item from the list
+# 3. Display the current list
+# 4. Exit
+# Choose an option (1/2/3/4): 1
+# Enter the item to append: 255
+# '255' has been appended to the list.
+
+# ****** this much output is causually enough : itna output enough hai bhai *********
+
+# Options:
+# 1. Append an item to the list
+# 2. Remove an item from the list
+# 3. Display the current list
+# 4. Exit
+# Choose an option (1/2/3/4): 3
+# Current List: ['255']
+
+# Options:
+# 1. Append an item to the list
+# 2. Remove an item from the list
+# 3. Display the current list
+# 4. Exit
+# Choose an option (1/2/3/4): 1
+# Enter the item to append: 12
+# '12' has been appended to the list.
+
+# Options:
+# 1. Append an item to the list
+# 2. Remove an item from the list
+# 3. Display the current list
+# 4. Exit
+# Choose an option (1/2/3/4): 3
+# Current List: ['255', '12']
+
+# Options:
+# 1. Append an item to the list
+# 2. Remove an item from the list
+# 3. Display the current list
+# 4. Exit
+# Choose an option (1/2/3/4): 2
+# Enter the item to remove: 255
+# '255' has been removed from the list.
+
+# Options:
+# 1. Append an item to the list
+# 2. Remove an item from the list
+# 3. Display the current list
+# 4. Exit
+# Choose an option (1/2/3/4): 3
+# Current List: ['12']
+
+# Options:
+# 1. Append an item to the list
+# 2. Remove an item from the list
+# 3. Display the current list
+# 4. Exit
+# Choose an option (1/2/3/4):

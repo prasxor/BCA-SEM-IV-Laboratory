@@ -24,3 +24,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# o/P 
+# Enter a number: 10
+# 10 is not an Armstrong number.

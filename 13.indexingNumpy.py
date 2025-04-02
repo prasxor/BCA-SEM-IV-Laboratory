@@ -15,3 +15,13 @@ print("Element at [2, -1] (2D):", arr2[2, -1])  # Access last element in row=2
 
 # Negative Indexing
 print("\nSecond last element (1D):", arr1[-2])  # Access second last element
+
+# output 
+
+# 1st element (1D): 10
+# Last element (1D): 50
+
+# Element at [0, 2] (2D): 3
+# Element at [2, -1] (2D): 9
+
+# Second last element (1D): 40
